@@ -1,4 +1,5 @@
 # M 340L (Matrices and Matrix Calculations) Coding Project
+Instructor: Dr. Axel G. R. Turnquist
 
 Note: All code used in the project must be attached to the project file.
 
